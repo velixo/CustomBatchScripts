@@ -1,2 +1,2 @@
 @echo off
-call %homedrive%%homepath%\Documents 
+call cd %homedrive%%homepath%\Documents 
