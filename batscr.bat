@@ -1,2 +1,2 @@
 @echo off
-call cd %homedrive%%homepath\CustomBatchScripts
+call cd %homedrive%%homepath%\CustomBatchScripts
